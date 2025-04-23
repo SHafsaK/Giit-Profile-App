@@ -1,1 +1,1 @@
-# Giit-Profile-App
+# Git-Profile-App
